@@ -5,7 +5,7 @@ Données de test :
 Valeur de la note : 275, 40 et 430
 */
 
-
+"use strict";
 
 let invoice = 430;
 

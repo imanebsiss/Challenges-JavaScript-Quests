@@ -4,6 +4,8 @@ Données 1 : Bernard pèse 78kg et mesure 1,69m. Marcel pèse 92kg et mesure 1,9
 Données 2 : Bernard pèse 95kg et mesure 1,88m. Marcel pèse 85kg et mesure 1,76m.
 */
 
+"use strict";
+
 let bernadrsize = 1.69;
 let bernardweight = 78;
 

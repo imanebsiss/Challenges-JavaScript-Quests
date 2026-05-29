@@ -7,6 +7,8 @@ Score Dauphins : 44, 23, 71 / Score Koalas : 65, 54, 49
 Score Dauphins : 85, 54, 41 / Score Koalas : 23, 34, 27
 */
 
+"use strict";
+
 const calcAverageDauphines = (a,b,c) => {
     return (a + b + c ) / 3 ;
 }

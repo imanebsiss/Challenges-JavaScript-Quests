@@ -1,4 +1,6 @@
 
+"use strict";
+
 function calcTip (invoice) {
     if ( invoice >= 50 && invoice <= 300) {
         let tip = (invoice * 15) / 100 ;

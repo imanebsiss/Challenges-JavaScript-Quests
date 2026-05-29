@@ -5,6 +5,7 @@ Score Dauphins : 97, 112, 101 / Score Koalas : 109, 95, 123
 Score Dauphins :97, 112, 101 / Score Koalas : 109, 95, 106
 */
 
+"use strict";
 
 let scoreDauphines = [97, 112, 101];        
 let scorKoalas = [109, 95, 123];

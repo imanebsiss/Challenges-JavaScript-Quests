@@ -1,4 +1,5 @@
 
+"use strict";
 
 function calcTip (bills) {
     if ( bills >= 50 && bills <= 300) {
